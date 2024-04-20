@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdu_algh" target="blank"><img src="https://img.shields.io/twitter/follow/abdu_algh?logo=twitter&style=for-the-badge" alt="abdu_algh" /></a> </p>
 
-- 🔭 I’m currently working on **ptm**
+- 🔭 I’m currently working on **PTM**
 
 - 🌱 I’m currently learning **Django**
 
