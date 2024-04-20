@@ -83,12 +83,13 @@
 </p>
 
 <div style="display: flex; justify-content: space-around; width: 100%;">
-    <div style="width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact&theme=dark" alt="e7gx" style="width: 100%; height: auto; align="center" />
+    <div style="width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact&theme=dark" alt="e7gx" style="width: 100%; max-width: 300px; height: auto; align="center" />
     </div>
-    <div style="width: 50%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx&theme=dark" alt="e7gx" style="width: 100%; height: auto;" align="center" />
+    <div style="width: 45%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx&theme=dark" alt="e7gx" style="width: 100%; max-width: 300px; height: auto;" align="center" />
     </div>
 </div>
+
 
 
