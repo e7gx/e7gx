@@ -25,17 +25,14 @@
 
 <div style="display: flex; justify-content: space-around; width: 400px;">
     <div style="width: 200px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact" alt="e7gx" style="width: 60%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact&theme=dark" alt="e7gx" style="width: 60%; height: auto;" />
     </div>
     <div style="width: 200px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx" alt="e7gx" style="width: 60%; height: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx&theme=dark" alt="e7gx" style="width: 60%; height: auto;" />
     </div>
 </div>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact&theme=dark" alt="e7gx"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx&theme=dark" alt="e7gx" /></p>
 
 
