@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">- 👀 I’m Front-end, Mobile Developer...</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e7gx&theme=dark" alt="e7gx" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e7gx&theme=dark" alt="e7gx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdu_algh" target="blank"><img src="https://img.shields.io/twitter/follow/abdu_algh?logo=twitter&style=for-the-badge&theme=dark" alt="abdu_algh" /></a> </p>
 
@@ -25,14 +25,17 @@
 
 <div style="display: flex; justify-content: space-around; width: 400px;">
     <div style="width: 200px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact" alt="e7gx" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact" alt="e7gx" style="width: 60%; height: auto;" />
     </div>
     <div style="width: 200px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx" alt="e7gx" style="width: 100%; height: auto;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx" alt="e7gx" style="width: 60%; height: auto;" />
     </div>
 </div>
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e7gx&show_icons=true&locale=en&layout=compact&theme=dark" alt="e7gx"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e7gx&theme=dark" alt="e7gx" /></p>
 
 
