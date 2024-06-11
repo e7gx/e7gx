@@ -14,7 +14,6 @@
 </p>
 
 <ul>
-    <li>🔭 I’m currently working on <b>PTM</b></li>
     <li>🌱 I’m currently learning <b>Django</b></li>
     <li>👯 I’m looking to collaborate on <b>Mobile applications</b></li>
     <li>📫 How to reach me <b>abalgabo@gmail.com</b></li>
