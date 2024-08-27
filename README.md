@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">- 👀 I’m Front-end, Mobile Developer...</h3>
+<h3 align="center">-  I’m Fullstack Developer, Mobile Developer</h3>
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
